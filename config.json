@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsetch",
+        "uuid": 4083420,
+        "checksum": "m4640o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
